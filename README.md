@@ -4,7 +4,7 @@ i'm devloper
 
 🌱 I’m currently learning on Frontend,Backend,DevOps
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chayakorn&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chayakorn&theme=default)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chayakorn&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chayakorn&theme=default) -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chayakorn&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chayakorn&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chayakorn&theme=default)

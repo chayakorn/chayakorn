@@ -1,6 +1,6 @@
  Hi I'm Chayakorn , Welcome to my Github profile 👋
 
-i'm devloper
+i'm a devloper
 
 🌱 I’m currently learning on Frontend,Backend,DevOps
 

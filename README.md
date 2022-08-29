@@ -1,7 +1,10 @@
-### Hi there 👋
+ Hi I'm Chayakorn , Welcome to my Github profile 👋
 
-- 🌱 I’m currently learning on Frontend,Backend,DevOps
+i'm devloper
 
+🌱 I’m currently learning on Frontend,Backend,DevOps
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=chayakorn)](https://github.com/chayakorn/github-profile-trophy)
 <!--
 **chayakorn/chayakorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

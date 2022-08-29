@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning on Frontend,Backend,DevOps
+
 <!--
 **chayakorn/chayakorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

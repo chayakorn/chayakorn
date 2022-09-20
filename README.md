@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chayakorn</h1>
-<h3 align="center">A passionate Devops Engineer from Thailand</h3>
+<h3 align="center">A passionate Devops & Backend Engineer from Thailand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayakorn&label=Profile%20views&color=0e75b6&style=flat" alt="chayakorn" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DevOps Frontend Backend**
 
-- 📫 How to reach me **chayakorn.j@mail.kmutt.ac.th**
+- 📫 How to reach me **jing182544@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
